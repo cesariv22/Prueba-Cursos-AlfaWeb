@@ -11,27 +11,6 @@
             <v-icon>mdi-export</v-icon>
           </v-btn>
         </v-app-bar>
-        <v-navigation-drawer absolute bottom temporary>
-          <v-list nav dense>
-            <v-list-item-group active-class="deep-purple--text text--accent-4">
-              <v-list-item>
-                <v-list-item-title>Foo</v-list-item-title>
-              </v-list-item>
-
-              <v-list-item>
-                <v-list-item-title>Bar</v-list-item-title>
-              </v-list-item>
-
-              <v-list-item>
-                <v-list-item-title>Fizz</v-list-item-title>
-              </v-list-item>
-
-              <v-list-item>
-                <v-list-item-title>Buzz</v-list-item-title>
-              </v-list-item>
-            </v-list-item-group>
-          </v-list>
-        </v-navigation-drawer>
       </v-col>
     </v-row>
   </v-container>
